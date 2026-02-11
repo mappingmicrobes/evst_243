@@ -1,0 +1,101 @@
+﻿transect,plot,pt,top_layer,code1,code2,code3,soil_surface,group
+North,1,1,,,,,LC,greatpines
+North,1,2,AG,,,,BARE SOIL,greatpines
+North,1,3,AG,,,,BARE SOIL,greatpines
+North,1,4,ERFA,,,,BARE SOIL,greatpines
+North,1,5,AG,,,,BARE SOIL,greatpines
+North,1,6,ERFA,AG,,,BARE SOIL,greatpines
+North,1,7,AG,,,,BARE SOIL,greatpines
+North,1,8,ERFA,AG,,,BARE SOIL,greatpines
+North,1,9,ERFA,AG,,,BARE SOIL,greatpines
+North,1,10,ERFA,AG,,,BARE SOIL,greatpines
+North,1,11,ERFA,BRTE,AG,,BARE SOIL,greatpines
+North,1,12,BRTE,,,,BARE SOIL,greatpines
+North,1,13,BRTE,,,,BARE SOIL,greatpines
+North,1,14,BRTE,,,,BARE SOIL,greatpines
+North,1,15,BRTE,,,,BARE SOIL,greatpines
+North,1,16,BRTE,,,,BARE SOIL,greatpines
+North,1,17,BRTE,,,,BARE SOIL,greatpines
+North,1,18,ERFA,AG,,,BARE SOIL,greatpines
+North,1,19,BRTE,,,,BARE SOIL,greatpines
+North,1,20,BRTE,,,,BARE SOIL,greatpines
+North,1,21,BRTE,,,,BARE SOIL,greatpines
+North,1,22,BRTE,,,,BARE SOIL,greatpines
+North,1,23,BRTE,,,,BARE SOIL,greatpines
+North,1,24,ERFA,AF1,,,BARE SOIL,greatpines
+North,1,25,ERFA,AF2,,,BARE SOIL,greatpines
+North,2,1,AG,,,,BARE SOIL,greatpines
+North,2,2,Dead,AG,,,BARE SOIL,greatpines
+North,2,3,Dead,AG,,,BARE SOIL,greatpines
+North,2,4,Dead,BRNI,AG,,BARE SOIL,greatpines
+North,2,5,Dead,,,,BARE SOIL,greatpines
+North,2,6,Dead,BRNI,AG,,BARE SOIL,greatpines
+North,2,7,ERFA,Dead,AG,,BARE SOIL,greatpines
+North,2,8,ERFA,Dead,AG,,BARE SOIL,greatpines
+North,2,9,ERFA,Dead,AG,,BARE SOIL,greatpines
+North,2,10,ERFA,AG,,,BARE SOIL,greatpines
+North,2,11,ERFA,AG,,,BARE SOIL,greatpines
+North,2,12,ERFA,AF1,AG,,BARE SOIL,greatpines
+North,2,13,ERFA,AF1,,,BARE SOIL,greatpines
+North,2,14,ERFA,,,,BARE SOIL,greatpines
+North,2,15,ERFA,,,,BARE SOIL,greatpines
+North,2,16,ERFA,AF1,,,BARE SOIL,greatpines
+North,2,17,ERFA,AF1,BRTE,,BARE SOIL,greatpines
+North,2,18,ERFA,AG,,,BARE SOIL,greatpines
+North,2,19,ERFA,AG,,,BARE SOIL,greatpines
+North,2,20,AG,,,,BARE SOIL,greatpines
+North,2,21,,,,R,BARE SOIL,greatpines
+North,2,22,,,,R,BARE SOIL,greatpines
+North,2,23,,,,R,BARE SOIL,greatpines
+North,2,24,AG,,,R,BARE SOIL,greatpines
+North,2,25,AG,,,R,BARE SOIL,greatpines
+South,3,1,,,,,LC,greatpines
+South,3,2,,,,,LC,greatpines
+South,3,3,ADFA,,,,LC,greatpines
+South,3,4,ADFA,,,,LC,greatpines
+South,3,5,ADFA,,,,LC,greatpines
+South,3,6,ADFA,,,,LC,greatpines
+South,3,7,ADFA,,,,LC,greatpines
+South,3,8,ADFA,,,,LC,greatpines
+South,3,9,ADFA,,,,LC,greatpines
+South,3,10,ADFA,,,,LC,greatpines
+South,3,11,OEEL,,,,BARE SOIL,greatpines
+South,3,12,OEEL,,,,BARE SOIL,greatpines
+South,3,13,OEEL,,,,BARE SOIL,greatpines
+South,3,14,OEEL,,,,BARE SOIL,greatpines
+South,3,15,OEEL,,,,BARE SOIL,greatpines
+South,3,16,OEEL,,,,R,greatpines
+South,3,17,ARCA,,,,BARE SOIL,greatpines
+South,3,18,ARCA,,,,BARE SOIL,greatpines
+South,3,19,ARCA,,,,R,greatpines
+South,3,20,ARCA,,,,BARE SOIL,greatpines
+South,3,21,ARCA,,,,BARE SOIL,greatpines
+South,3,22,ARCA,AF1,,,BARE SOIL,greatpines
+South,3,23,ARCA,AF1,,,BARE SOIL,greatpines
+South,3,24,AF,,,,R,greatpines
+South,3,25,AF,,,,R,greatpines
+South,4,1,ARCA,,,,BARE SOIL,greatpines
+South,4,2,ERFA,,,,BARE SOIL,greatpines
+South,4,3,HIIN,,,,BARE SOIL,greatpines
+South,4,4,HIIN,,,,BARE SOIL,greatpines
+South,4,5,HIIn,,,,BARE SOIL,greatpines
+South,4,6,HIIN,,,,S,greatpines
+South,4,7,HIIN,,,,BARE SOIL,greatpines
+South,4,8,HIIN,,,,BARE SOIL,greatpines
+South,4,9,HIIN,,,,BARE SOIL,greatpines
+South,4,10,HIIN,,,,BARE SOIL,greatpines
+South,4,11,HIIN,,,,BARE SOIL,greatpines
+South,4,12,HIIN,,,,BARE SOIL,greatpines
+South,4,13,HIIN,,,,BARE SOIL,greatpines
+South,4,14,HIIN,,,,R,greatpines
+South,4,15,HIIN,,,,R,greatpines
+South,4,16,AG,,,,S,greatpines
+South,4,17,ERFA,,,,BARE SOIL,greatpines
+South,4,18,,,,,R,greatpines
+South,4,19,,,,,R,greatpines
+South,4,20,,,,,R,greatpines
+South,4,21,AG,,,,R,greatpines
+South,4,22,,,,,R,greatpines
+South,4,23,,,,,R,greatpines
+South,4,24,,,,,R,greatpines
+South,4,25,,,,,R,greatpines

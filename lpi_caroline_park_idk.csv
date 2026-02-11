@@ -1,0 +1,76 @@
+﻿transect,plot,pt,top_layer,code1,code2,code3,soil_surface,site,soil_surface_code,group,location
+Northsouth,1,1,ARCA,,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+Northsouth,1,2,ARCA,,,,Bare Soil,Caroline Park,S ,IDK Group,Caroline Park
+Northsouth,1,3,ARCA,,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,1,4,ARCA,,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,1,5,ARCA,AF1,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,1,6,ARCA,AG1,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,1,7,ARCA,AG1,,,Bare Soil,Caroline Park,S ,IDK Group,Caroline Park
+Northsouth,1,8,ARCA,AG1,AF2,,Bare Soil,Caroline Park,S ,IDK Group,Caroline Park
+Northsouth,1,9,ARCA,AG1,,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+Northsouth,1,10,OEBI,ERFA,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,1,11,OEBI,,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,1,12,None,ERFA,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,1,13,OEBI,,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,1,14,ARCA,OEBI,ERFA,AF1,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,1,15,ERFA,,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,1,16,ERFA,ARCA,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,1,17,ERFA,AF1,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,1,18,ERFA,AF1,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,1,19,ERFA,AF1,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,1,20,ERFA,AF1,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,1,21,OEBI,ERFA,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,1,22,OEBI,ERFA,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,1,23,OEBI,ERFA,AF1,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,1,24,NONE,DEAD,AF1,,Biotic Crust on Soil,Caroline Park,LC,IDK Group,Caroline Park
+Northsouth,1,25,NONE,DEAD,AF1,,Biotic Crust on Soil,Caroline Park,LC,IDK Group,Caroline Park
+Northsouth,2,26,AF3,AG1,,,Bare Soil,Caroline Park,S ,IDK Group,Caroline Park
+Northsouth,2,27,NONE,AG1,,,Bare Soil,Caroline Park,S ,IDK Group,Caroline Park
+Northsouth,2,28,NONE,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+Northsouth,2,29,NONE,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+Northsouth,2,30,NONE,AG1,,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+Northsouth,2,31,AF4,AG1,,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+Northsouth,2,32,NONE,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+Northsouth,2,33,ERFA,AG1,,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+Northsouth,2,34,ERFA,AG1,,,Bare Soil,Caroline Park,S ,IDK Group,Caroline Park
+Northsouth,2,35,ERFA,AG1,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,2,36,ERFA,,,,"Rock, Duff",Caroline Park,"R,D",IDK Group,Caroline Park
+Northsouth,2,37,ERFA,,,,"Rock, Duff",Caroline Park,"R,D",IDK Group,Caroline Park
+Northsouth,2,38,ERFA,,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,2,39,ERFA,AF1,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,2,40,OEBI,ERFA,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,2,41,OEBI,ERFA,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,2,42,OEBI,ERFA,AF1,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,2,43,OEBI,AF1,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,2,44,OEBI,ERFA,AF1,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,2,45,OEBI,ERFA,AF1,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,2,46,OEBI,ERFA,AF1,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,2,47,ERFA,AF1,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,2,48,ERFA,,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,2,49,OEBI,ERFA ,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,2,50,OEBI,,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,3,51,NONE,AG1,,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+Northsouth,3,52,NONE,AG1,,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+Northsouth,3,53,NONE,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+Northsouth,3,54,NONE,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+Northsouth,3,55,CLAR,AG1,,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+Northsouth,3,56,SAAP,AG1,,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+Northsouth,3,57,SAAP,CLAR,AG1,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+Northsouth,3,58,NONE,,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+Northsouth,3,59,CLAR,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+Northsouth,3,60,CLAR,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+Northsouth,3,61,NONE,,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+Northsouth,3,62,NONE,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+Northsouth,3,63,ERFA,AG1,,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+Northsouth,3,64,ERFA,CLAR,AG1,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+Northsouth,3,65,ERFA,AG1,,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+Northsouth,3,66,ERFA,AG1,,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+Northsouth,3,67,ERFA,AG1,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,3,68,ERFA,AG1,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+Northsouth,3,69,ERFA,,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+Northsouth,3,70,ERFA,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+Northsouth,3,71,ERFA,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+Northsouth,3,72,ERFA,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+Northsouth,3,73,ERFA,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+Northsouth,3,74,ERFA,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+Northsouth,3,75,NONE,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
