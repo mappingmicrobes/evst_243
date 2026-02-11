@@ -1,0 +1,375 @@
+transect,plot,pt,top_layer,code1,code2,code3,soil_surface,site,soil_surface_code,group,location
+North,1,1,ARCA,,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+North,1,2,ARCA,,,,Bare Soil,Caroline Park,S ,IDK Group,Caroline Park
+North,1,3,ARCA,,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,1,4,ARCA,,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,1,5,ARCA,AF1,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,1,6,ARCA,AG1,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,1,7,ARCA,AG1,,,Bare Soil,Caroline Park,S ,IDK Group,Caroline Park
+North,1,8,ARCA,AG1,AF2,,Bare Soil,Caroline Park,S ,IDK Group,Caroline Park
+North,1,9,ARCA,AG1,,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+North,1,10,OEBI,ERFA,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,1,11,OEBI,,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,1,12,,ERFA,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,1,13,OEBI,,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,1,14,ARCA,OEBI,ERFA,AF1,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,1,15,ERFA,,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,1,16,ERFA,ARCA,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,1,17,ERFA,AF1,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,1,18,ERFA,AF1,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,1,19,ERFA,AF1,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,1,20,ERFA,AF1,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,1,21,OEBI,ERFA,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,1,22,OEBI,ERFA,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,1,23,OEBI,ERFA,AF1,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,1,24,NONE,DEAD,AF1,,Biotic Crust on Soil,Caroline Park,LC,IDK Group,Caroline Park
+North,1,25,NONE,DEAD,AF1,,Biotic Crust on Soil,Caroline Park,LC,IDK Group,Caroline Park
+North,2,26,AF3,AG1,,,Bare Soil,Caroline Park,S ,IDK Group,Caroline Park
+North,2,27,NONE,AG1,,,Bare Soil,Caroline Park,S ,IDK Group,Caroline Park
+North,2,28,NONE,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+North,2,29,NONE,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+North,2,30,NONE,AG1,,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+North,2,31,AF4,AG1,,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+North,2,32,NONE,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+North,2,33,ERFA,AG1,,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+North,2,34,ERFA,AG1,,,Bare Soil,Caroline Park,S ,IDK Group,Caroline Park
+North,2,35,ERFA,AG1,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,2,36,ERFA,,,,"Rock, Duff",Caroline Park,"R,D",IDK Group,Caroline Park
+North,2,37,ERFA,,,,"Rock, Duff",Caroline Park,"R,D",IDK Group,Caroline Park
+North,2,38,ERFA,,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,2,39,ERFA,AF1,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,2,40,OEBI,ERFA,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,2,41,OEBI,ERFA,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,2,42,OEBI,ERFA,AF1,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,2,43,OEBI,AF1,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,2,44,OEBI,ERFA,AF1,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,2,45,OEBI,ERFA,AF1,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,2,46,OEBI,ERFA,AF1,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,2,47,ERFA,AF1,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,2,48,ERFA,,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,2,49,OEBI,ERFA ,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,2,50,OEBI,,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,3,51,NONE,AG1,,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+North,3,52,NONE,AG1,,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+North,3,53,NONE,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+North,3,54,NONE,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+North,3,55,CLAR,AG1,,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+North,3,56,SAAP,AG1,,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+North,3,57,SAAP,CLAR,AG1,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+North,3,58,NONE,,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+North,3,59,CLAR,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+North,3,60,CLAR,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+North,3,61,NONE,,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+North,3,62,NONE,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+North,3,63,ERFA,AG1,,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+North,3,64,ERFA,CLAR,AG1,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+North,3,65,ERFA,AG1,,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+North,3,66,ERFA,AG1,,,Bare Soil,Caroline Park,S,IDK Group,Caroline Park
+North,3,67,ERFA,AG1,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,3,68,ERFA,AG1,,,Duff,Caroline Park,D,IDK Group,Caroline Park
+North,3,69,ERFA,,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+North,3,70,ERFA,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+North,3,71,ERFA,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+North,3,72,ERFA,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+North,3,73,ERFA,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+North,3,74,ERFA,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+North,3,75,NONE,AG1,,,Moss,Caroline Park,M,IDK Group,Caroline Park
+North,3,1,annual grass,AG,,,,Caroline Park,S,Unknown,CP
+North,3,2,annual grass,AG,,,,Caroline Park,S,Unknown,CP
+North,3,3,annual grass,AG,,,,Caroline Park,S,Unknown,CP
+North,3,4,annual grass,AG,,,,Caroline Park,S,Unknown,CP
+North,3,5,annual grass,AG,,,,Caroline Park,S,Unknown,CP
+North,3,6,annual grass,AG,,,,Caroline Park,S,Unknown,CP
+North,3,7,ERFA,,,,,Caroline Park,,Unknown,CP
+North,3,8,ERFA,,,,,Caroline Park,,Unknown,CP
+North,3,9,ERFA,,,,,Caroline Park,,Unknown,CP
+North,3,10,annual grass,AG,,,,Caroline Park,,Unknown,CP
+North,3,11,annual grass,AG,,,,Caroline Park,S,Unknown,CP
+North,3,12,annual grass,AG,,,,Caroline Park,,Unknown,CP
+North,3,13,annual grass,AG,,,,Caroline Park,S,Unknown,CP
+North,3,14,annual grass,AG,,,,Caroline Park,S,Unknown,CP
+North,3,15,ERFA,AG,,,,Caroline Park,,Unknown,CP
+North,3,16,ERFA,,,,,Caroline Park,,Unknown,CP
+North,3,17,ERFA,,,,,Caroline Park,,Unknown,CP
+North,3,18,ERFA,AG,,,,Caroline Park,,Unknown,CP
+North,3,19,ERFA,,,,,Caroline Park,,Unknown,CP
+North,3,20,ERFA,,,,,Caroline Park,,Unknown,CP
+North,3,21,ERFA,AG,,,,Caroline Park,,Unknown,CP
+North,3,22,ERFA,AG,,,,Caroline Park,,Unknown,CP
+North,3,23,ERFA,AG,,,,Caroline Park,,Unknown,CP
+North,3,24,ERFA,AG,,,,Caroline Park,,Unknown,CP
+North,3,25,ARCA,AG,,,,Caroline Park,,Unknown,CP
+North,3,1,ERFA,,,,,Caroline Park,,Unknown,CP
+North,3,2,AG,AG,,,,Caroline Park,AG,Unknown,CP
+North,3,3,AG,AG,,,,Caroline Park,,Unknown,CP
+North,3,4,ARCA,AG,,,,Caroline Park,,Unknown,CP
+North,3,5,AG,,,,,Caroline Park,AG,Unknown,CP
+North,3,6,AG,,,,,Caroline Park,AG,Unknown,CP
+North,3,7,ERFA,AG,,,,Caroline Park,AG,Unknown,CP
+North,3,8,ARCA,AG,,,,Caroline Park,AG,Unknown,CP
+North,3,9,ARCA,AG,,,,Caroline Park,AG,Unknown,CP
+North,3,10,ARCA,,,,,Caroline Park,AG,Unknown,CP
+North,3,11,ERFA,,,,,Caroline Park,AG,Unknown,CP
+North,3,12,AG,,,,,Caroline Park,AG,Unknown,CP
+North,3,13,ARCA,,,,,Caroline Park,AG,Unknown,CP
+North,3,14,ENFA,,,,,Caroline Park,,Unknown,CP
+North,3,15,ERFA,,,,,Caroline Park,,Unknown,CP
+North,3,16,AG,,,,,Caroline Park,AG,Unknown,CP
+North,3,17,AG,,,,,Caroline Park,AG,Unknown,CP
+North,3,18,SAAP,,,,,Caroline Park,AG,Unknown,CP
+North,3,19,ARCA,,,,,Caroline Park,,Unknown,CP
+North,3,20,ARCA,,,,,Caroline Park,,Unknown,CP
+North,3,21,AG,,,,,Caroline Park,,Unknown,CP
+North,3,22,AG,,,,,Caroline Park,,Unknown,CP
+North,3,23,AG,,,,,Caroline Park,,Unknown,CP
+North,3,24,AG,,,,,Caroline Park,,Unknown,CP
+North,3,25,AG,,,,,Caroline Park,,Unknown,CP
+South,3,1,BG,,,,,Caroline Park,,Unknown,CP
+South,3,2,BG,,,,,Caroline Park,,Unknown,CP
+South,3,3,CLAR,AG,,,,Caroline Park,,Unknown,CP
+South,3,4,AG,BG,,,,Caroline Park,,Unknown,CP
+South,3,5,AG,BG,,,,Caroline Park,,Unknown,CP
+South,3,6,AG,BG,,,,Caroline Park,,Unknown,CP
+South,3,7,AG,BG,,,,Caroline Park,,Unknown,CP
+South,3,8,ENFA,AG,,,,Caroline Park,,Unknown,CP
+South,3,9,BG,,,,,Caroline Park,,Unknown,CP
+South,3,10,ENFA,AG,,,,Caroline Park,,Unknown,CP
+South,3,11,BG,,,,,Caroline Park,,Unknown,CP
+South,3,12,BG,,,,,Caroline Park,,Unknown,CP
+South,3,13,BG,,,,,Caroline Park,,Unknown,CP
+South,3,14,MAVU,,,,,Caroline Park,,Unknown,CP
+South,3,15,ENFA,AG,,,,Caroline Park,,Unknown,CP
+South,3,16,BG,,,,,Caroline Park,,Unknown,CP
+South,3,17,BG,,,,,Caroline Park,,Unknown,CP
+South,3,18,AG,,,,,Caroline Park,,Unknown,CP
+South,3,19,BG,,,,,Caroline Park,,Unknown,CP
+South,3,20,PHRA,AG,,,,Caroline Park,,Unknown,CP
+South,3,21,BG,,,,,Caroline Park,,Unknown,CP
+South,3,22,BG,,,,,Caroline Park,,Unknown,CP
+South,3,23,BG,,,,,Caroline Park,,Unknown,CP
+South,3,24,AG,,,,,Caroline Park,,Unknown,CP
+South,3,25,BG,,,,,Caroline Park,,Unknown,CP
+South,3,1,BG,,,,,Caroline Park,,Unknown,CP
+South,3,2,BG,,,,,Caroline Park,,Unknown,CP
+South,3,3,AG,,,,,Caroline Park,,Unknown,CP
+South,3,4,AG,,,,,Caroline Park,,Unknown,CP
+South,3,5,BG,,,,,Caroline Park,,Unknown,CP
+South,3,6,BG,,,,,Caroline Park,,Unknown,CP
+South,3,7,BG,,,,,Caroline Park,,Unknown,CP
+South,3,8,BG,,,,,Caroline Park,,Unknown,CP
+South,3,9,ARCA,AG,,,,Caroline Park,,Unknown,CP
+South,3,10,ARCA,AG,,,,Caroline Park,,Unknown,CP
+South,3,11,ARCA,AG,,,,Caroline Park,,Unknown,CP
+South,3,12,BG,,,,,Caroline Park,,Unknown,CP
+South,3,13,ENFA,,,,,Caroline Park,,Unknown,CP
+South,3,15,ENFA,AG,,,,Caroline Park,,Unknown,CP
+South,3,16,ENFA,,,,,Caroline Park,,Unknown,CP
+South,3,17,ENFA,AG,,,,Caroline Park,,Unknown,CP
+South,3,18,ENFA,,,,,Caroline Park,,Unknown,CP
+South,3,19,ENFA,,,,,Caroline Park,,Unknown,CP
+South,3,20,ENFA,,,,,Caroline Park,,Unknown,CP
+South,3,21,ENFA,AG,,,,Caroline Park,,Unknown,CP
+South,3,22,BG,,,,,Caroline Park,,Unknown,CP
+South,3,23,BG,,,,,Caroline Park,,Unknown,CP
+South,3,24,BG,,,,,Caroline Park,,Unknown,CP
+South,3,25,BG,,,,,Caroline Park,,Unknown,CP
+North,1,1,,,,,,Caroline Park,LC,greatpines,
+North,1,2,AG,,,,,Caroline Park,S,greatpines,
+North,1,3,AG,,,,,Caroline Park,S,greatpines,
+North,1,4,ERFA,,,,,Caroline Park,S,greatpines,
+North,1,5,AG,,,,,Caroline Park,S,greatpines,
+North,1,6,ERFA,AG,,,,Caroline Park,S,greatpines,
+North,1,7,AG,,,,,Caroline Park,S,greatpines,
+North,1,8,ERFA,AG,,,,Caroline Park,S,greatpines,
+North,1,9,ERFA,AG,,,,Caroline Park,S,greatpines,
+North,1,10,ERFA,AG,,,,Caroline Park,S,greatpines,
+North,1,11,ERFA,BRTE,AG,,,Caroline Park,S,greatpines,
+North,1,12,BRTE,,,,,Caroline Park,S,greatpines,
+North,1,13,BRTE,,,,,Caroline Park,S,greatpines,
+North,1,14,BRTE,,,,,Caroline Park,S,greatpines,
+North,1,15,BRTE,,,,,Caroline Park,S,greatpines,
+North,1,16,BRTE,,,,,Caroline Park,S,greatpines,
+North,1,17,BRTE,,,,,Caroline Park,S,greatpines,
+North,1,18,ERFA,AG,,,,Caroline Park,S,greatpines,
+North,1,19,BRTE,,,,,Caroline Park,S,greatpines,
+North,1,20,BRTE,,,,,Caroline Park,S,greatpines,
+North,1,21,BRTE,,,,,Caroline Park,S,greatpines,
+North,1,22,BRTE,,,,,Caroline Park,S,greatpines,
+North,1,23,BRTE,,,,,Caroline Park,S,greatpines,
+North,1,24,ERFA,AF1,,,,Caroline Park,S,greatpines,
+North,1,25,ERFA,AF2,,,,Caroline Park,S,greatpines,
+North,2,1,AG,,,,,Caroline Park,S,greatpines,
+North,2,2,Dead,AG,,,,Caroline Park,S,greatpines,
+North,2,3,Dead,AG,,,,Caroline Park,S,greatpines,
+North,2,4,Dead,BRNI,AG,,,Caroline Park,S,greatpines,
+North,2,5,Dead,,,,,Caroline Park,S,greatpines,
+North,2,6,Dead,BRNI,AG,,,Caroline Park,S,greatpines,
+North,2,7,ERFA,Dead,AG,,,Caroline Park,S,greatpines,
+North,2,8,ERFA,Dead,AG,,,Caroline Park,S,greatpines,
+North,2,9,ERFA,Dead,AG,,,Caroline Park,S,greatpines,
+North,2,10,ERFA,AG,,,,Caroline Park,S,greatpines,
+North,2,11,ERFA,AG,,,,Caroline Park,S,greatpines,
+North,2,12,ERFA,AF1,AG,,,Caroline Park,S,greatpines,
+North,2,13,ERFA,AF1,,,,Caroline Park,S,greatpines,
+North,2,14,ERFA,,,,,Caroline Park,S,greatpines,
+North,2,15,ERFA,,,,,Caroline Park,S,greatpines,
+North,2,16,ERFA,AF1,,,,Caroline Park,S,greatpines,
+North,2,17,ERFA,AF1,BRTE,,,Caroline Park,S,greatpines,
+North,2,18,ERFA,AG,,,,Caroline Park,S,greatpines,
+North,2,19,ERFA,AG,,,,Caroline Park,S,greatpines,
+North,2,20,AG,,,,,Caroline Park,S,greatpines,
+North,2,21,,,,R,,Caroline Park,S,greatpines,
+North,2,22,,,,R,,Caroline Park,S,greatpines,
+North,2,23,,,,R,,Caroline Park,S,greatpines,
+North,2,24,AG,,,R,,Caroline Park,S,greatpines,
+North,2,25,AG,,,R,,Caroline Park,S,greatpines,
+South,3,1,,,,,,Caroline Park,LC,greatpines,
+South,3,2,,,,,,Caroline Park,LC,greatpines,
+South,3,3,ADFA,,,,,Caroline Park,LC,greatpines,
+South,3,4,ADFA,,,,,Caroline Park,LC,greatpines,
+South,3,5,ADFA,,,,,Caroline Park,LC,greatpines,
+South,3,6,ADFA,,,,,Caroline Park,LC,greatpines,
+South,3,7,ADFA,,,,,Caroline Park,LC,greatpines,
+South,3,8,ADFA,,,,,Caroline Park,LC,greatpines,
+South,3,9,ADFA,,,,,Caroline Park,LC,greatpines,
+South,3,10,ADFA,,,,,Caroline Park,LC,greatpines,
+South,3,11,OEEL,,,,,Caroline Park,S,greatpines,
+South,3,12,OEEL,,,,,Caroline Park,S,greatpines,
+South,3,13,OEEL,,,,,Caroline Park,S,greatpines,
+South,3,14,OEEL,,,,,Caroline Park,S,greatpines,
+South,3,15,OEEL,,,,,Caroline Park,S,greatpines,
+South,3,16,OEEL,,,,,Caroline Park,R,greatpines,
+South,3,17,ARCA,,,,,Caroline Park,S,greatpines,
+South,3,18,ARCA,,,,,Caroline Park,S,greatpines,
+South,3,19,ARCA,,,,,Caroline Park,R,greatpines,
+South,3,20,ARCA,,,,,Caroline Park,S,greatpines,
+South,3,21,ARCA,,,,,Caroline Park,S,greatpines,
+South,3,22,ARCA,AF1,,,,Caroline Park,S,greatpines,
+South,3,23,ARCA,AF1,,,,Caroline Park,S,greatpines,
+South,3,24,AF,,,,,Caroline Park,R,greatpines,
+South,3,25,AF,,,,,Caroline Park,R,greatpines,
+South,4,1,ARCA,,,,,Caroline Park,S,greatpines,
+South,4,2,ERFA,,,,,Caroline Park,S,greatpines,
+South,4,3,HIIN,,,,,Caroline Park,S,greatpines,
+South,4,4,HIIN,,,,,Caroline Park,S,greatpines,
+South,4,5,HIIn,,,,,Caroline Park,S,greatpines,
+South,4,6,HIIN,,,,,Caroline Park,S,greatpines,
+South,4,7,HIIN,,,,,Caroline Park,S,greatpines,
+South,4,8,HIIN,,,,,Caroline Park,S,greatpines,
+South,4,9,HIIN,,,,,Caroline Park,S,greatpines,
+South,4,10,HIIN,,,,,Caroline Park,S,greatpines,
+South,4,11,HIIN,,,,,Caroline Park,S,greatpines,
+South,4,12,HIIN,,,,,Caroline Park,S,greatpines,
+South,4,13,HIIN,,,,,Caroline Park,S,greatpines,
+South,4,14,HIIN,,,,,Caroline Park,R,greatpines,
+South,4,15,HIIN,,,,,Caroline Park,R,greatpines,
+South,4,16,AG,,,,,Caroline Park,S,greatpines,
+South,4,17,ERFA,,,,,Caroline Park,S,greatpines,
+South,4,18,,,,,,Caroline Park,R,greatpines,
+South,4,19,,,,,,Caroline Park,R,greatpines,
+South,4,20,,,,,,Caroline Park,R,greatpines,
+South,4,21,AG,,,,,Caroline Park,R,greatpines,
+South,4,22,,,,,,Caroline Park,R,greatpines,
+South,4,23,,,,,,Caroline Park,R,greatpines,
+South,4,24,,,,,,Caroline Park,R,greatpines,
+South,4,25,,,,,,Caroline Park,R,greatpines,
+North ,1,1,ARCA,,,,BARE SOIL,Caroline Park,S,NLB,Caroline Park
+North ,1,2,ERFA,,,,BARE SOIL,Caroline Park,S,NLB,Caroline Park
+North ,1,3,ERFA,,,,BARE SOIL,Caroline Park,S,NLB,Caroline Park
+North ,1,4,SAAP,,,,BARE SOIL,Caroline Park,S,NLB,Caroline Park
+North ,1,5,SAAP,,,,BARE SOIL,Caroline Park,S,NLB,Caroline Park
+North ,1,6,SAAP,,,,BARE SOIL,Caroline Park,S,NLB,Caroline Park
+North ,1,7,ARCA,,,,BARE SOIL,Caroline Park,S,NLB,Caroline Park
+North ,1,8,ARCA,,,,BARE SOIL,Caroline Park,S,NLB,Caroline Park
+North ,1,9,ARCA,,,,BARE SOIL,Caroline Park,S,NLB,Caroline Park
+North ,1,10,ARCA,,,,BARE SOIL,Caroline Park,S,NLB,Caroline Park
+North ,1,11,,,,,,Caroline Park,AG,NLB,Caroline Park
+North ,1,12,,,,,,Caroline Park,AG,NLB,Caroline Park
+North ,1,13,,,,,,Caroline Park,AG,NLB,Caroline Park
+North ,1,14,,,,,,Caroline Park,S,NLB,Caroline Park
+North ,1,15,,,,,,Caroline Park,AF,NLB,Caroline Park
+North ,1,16,ARCA,,,,,Caroline Park,AF,NLB,Caroline Park
+North ,1,17,ARCA,,,,,Caroline Park,S,NLB,Caroline Park
+North ,1,18,,,,,,Caroline Park,S,NLB,Caroline Park
+North ,1,19,,,,,,Caroline Park,S,NLB,Caroline Park
+North ,1,20,,,,,,Caroline Park,LC,NLB,Caroline Park
+North ,1,21,,,,,,Caroline Park,LC,NLB,Caroline Park
+North ,1,22,,,,,,Caroline Park,LC,NLB,Caroline Park
+North ,1,23,,,,,,Caroline Park,LC,NLB,Caroline Park
+North ,1,24,,,,,,Caroline Park,LC,NLB,Caroline Park
+North ,1,25,,,,,,Caroline Park,LC,NLB,Caroline Park
+North ,2,26,ARCA,,,,,Caroline Park,S,NLB,Caroline Park
+North ,2,27,PS1,,,,,Caroline Park,S,NLB,Caroline Park
+North ,2,28,PS1,,,,,Caroline Park,S,NLB,Caroline Park
+North ,2,29,ARCA,,,,,Caroline Park,S,NLB,Caroline Park
+North ,2,30,ARCA,,,,,Caroline Park,S,NLB,Caroline Park
+North ,2,31,ARCA,,,,,Caroline Park,S,NLB,Caroline Park
+North ,2,32,ERFA,,,,,Caroline Park,S,NLB,Caroline Park
+North ,2,33,ERFA,,,,,Caroline Park,S,NLB,Caroline Park
+North ,2,34,,,,,,Caroline Park,S,NLB,Caroline Park
+North ,2,35,,,,,,Caroline Park,S,NLB,Caroline Park
+North ,2,36,ERFA,,,,,Caroline Park,S,NLB,Caroline Park
+North ,2,37,ERFA,,,,,Caroline Park,S,NLB,Caroline Park
+North ,2,38,ERFA,,,,,Caroline Park,S,NLB,Caroline Park
+North ,2,39,ERFA,,,,,Caroline Park,AG,NLB,Caroline Park
+North ,2,40,,,,,,Caroline Park,AG,NLB,Caroline Park
+North ,2,41,,,,,,Caroline Park,S,NLB,Caroline Park
+North ,2,42,ARCA,,,,,Caroline Park,AG,NLB,Caroline Park
+North ,2,43,ERFA,,,,,Caroline Park,AG,NLB,Caroline Park
+North ,2,44,ERFA,,,,,Caroline Park,AG,NLB,Caroline Park
+North ,2,45,ERFA,,,,,Caroline Park,AG,NLB,Caroline Park
+North ,2,46,,,,,,Caroline Park,AG,NLB,Caroline Park
+North ,2,47,,,,,,Caroline Park,AG,NLB,Caroline Park
+North ,2,48,ARCA,,,,,Caroline Park,AG,NLB,Caroline Park
+North ,2,49,,,,,,Caroline Park,S,NLB,Caroline Park
+North ,2,50,ARCA,,,,,Caroline Park,AG,NLB,Caroline Park
+South,3,1,,,,,,Caroline Park,S,NLB,Caroline Park
+South,3,2,,,,,,Caroline Park,S,NLB,Caroline Park
+South,3,3,,,,,,Caroline Park,S,NLB,Caroline Park
+South,3,4,HIIN,,,,,Caroline Park,S,NLB,Caroline Park
+South,3,5,,,,,,Caroline Park,S,NLB,Caroline Park
+South,3,6,,,,,,Caroline Park,S,NLB,Caroline Park
+South,3,7,,,,,,Caroline Park,S,NLB,Caroline Park
+South,3,8,,,,,,Caroline Park,Moss,NLB,Caroline Park
+South,3,9,,,,,,Caroline Park,Lichen,NLB,Caroline Park
+South,3,10,,,,,,Caroline Park,Lichen,NLB,Caroline Park
+South,3,11,,,,,,Caroline Park,LC,NLB,Caroline Park
+South,3,12,,,,,,Caroline Park,LC,NLB,Caroline Park
+South,3,13,,,,,,Caroline Park,LC,NLB,Caroline Park
+South,3,14,,,,,,Caroline Park,S,NLB,Caroline Park
+South,3,15,SAAP,,,,,Caroline Park,S,NLB,Caroline Park
+South,3,16,,,,,,Caroline Park,AG,NLB,Caroline Park
+South,3,17,HIIN,,,,,Caroline Park,S,NLB,Caroline Park
+South,3,18,HIIN,,,,,Caroline Park,LC,NLB,Caroline Park
+South,3,19,SAAP,,,,,Caroline Park,AG,NLB,Caroline Park
+South,3,20,,,,,,Caroline Park,S,NLB,Caroline Park
+South,3,21,HIIN,,,,,Caroline Park,LC,NLB,Caroline Park
+South,3,22,HIIN,,,,,Caroline Park,S,NLB,Caroline Park
+South,3,23,,,,,,Caroline Park,S,NLB,Caroline Park
+South,3,24,,,,,,Caroline Park,S,NLB,Caroline Park
+South,3,25,,,,,,Caroline Park,S,NLB,Caroline Park
+South,4,26,ERFA,,,,,Caroline Park,S,NLB,Caroline Park
+South,4,27,ERFA,,,,,Caroline Park,S,NLB,Caroline Park
+South,4,28,,,,,,Caroline Park,LC,NLB,Caroline Park
+South,4,29,ERFA,,,,,Caroline Park,S,NLB,Caroline Park
+South,4,30,,,,,,Caroline Park,M,NLB,Caroline Park
+South,4,31,,,,,,Caroline Park,LC,NLB,Caroline Park
+South,4,32,ARCA,,,,,Caroline Park,S,NLB,Caroline Park
+South,4,33,ARCA,,,,,Caroline Park,S,NLB,Caroline Park
+South,4,34,ARCA,,,,,Caroline Park,S,NLB,Caroline Park
+South,4,35,ARCA,,,,,Caroline Park,S,NLB,Caroline Park
+South,4,36,ARCA,,,,,Caroline Park,S,NLB,Caroline Park
+South,4,37,,,,,,Caroline Park,S,NLB,Caroline Park
+South,4,38,,,,,,Caroline Park,S,NLB,Caroline Park
+South,4,39,,,,,,Caroline Park,S,NLB,Caroline Park
+South,4,40,ARCA,,,,,Caroline Park,S,NLB,Caroline Park
+South,4,41,,,,,,Caroline Park,S,NLB,Caroline Park
+South,4,42,,,,,,Caroline Park,R,NLB,Caroline Park
+South,4,43,ERFA,,,,,Caroline Park,S,NLB,Caroline Park
+South,4,44,ERFA,,,,,Caroline Park,S,NLB,Caroline Park
+South,4,45,,,,,,Caroline Park,S,NLB,Caroline Park
+South,4,46,,,,,,Caroline Park,M,NLB,Caroline Park
+South,4,47,,,,,,Caroline Park,S,NLB,Caroline Park
+South,4,48,,,,,,Caroline Park,R,NLB,Caroline Park
+South,4,49,,,,,,Caroline Park,S,NLB,Caroline Park
+South,4,50,,,,,,Caroline Park,S,NLB,Caroline Park
