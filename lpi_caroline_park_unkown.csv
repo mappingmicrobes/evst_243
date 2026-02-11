@@ -1,0 +1,101 @@
+﻿transect,plot,pt,top_layer,code1,code2,code3,soil_surface,site,soil_surface_code,group,location
+North East,3,1,annual grass,AG,,,,Caroline Park,bare earth,unkown,CP
+North East,3,2,annual grass,AG,,,,Caroline Park,bare earth,unkown,CP
+North East,3,3,annual grass,AG,,,,Caroline Park,bare earth,unkown,CP
+North East,3,4,annual grass,AG,,,,Caroline Park,bare earth,unkown,CP
+North East,3,5,annual grass,AG,,,,Caroline Park,bare earth,unkown,CP
+North East,3,6,annual grass,AG,,,,Caroline Park,bare earth,unkown,CP
+North East,3,7,ERFA,,,,,Caroline Park,,unkown,CP
+North East,3,8,ERFA,,,,,Caroline Park,,unkown,CP
+North East,3,9,ERFA,,,,,Caroline Park,,unkown,CP
+North East,3,10,annual grass,AG,,,,Caroline Park,,unkown,CP
+North East,3,11,annual grass,AG,,,,Caroline Park,bare earth,unkown,CP
+North East,3,12,annual grass,AG,,,,Caroline Park,,unkown,CP
+North East,3,13,annual grass,AG,,,,Caroline Park,bare earth,unkown,CP
+North East,3,14,annual grass,AG,,,,Caroline Park,bare earth,unkown,CP
+North East,3,15,ERFA,AG,,,,Caroline Park,,unkown,CP
+North East,3,16,ERFA,,,,,Caroline Park,,unkown,CP
+North East,3,17,ERFA,,,,,Caroline Park,,unkown,CP
+North East,3,18,ERFA,AG,,,,Caroline Park,,unkown,CP
+North East,3,19,ERFA,,,,,Caroline Park,,unkown,CP
+North East,3,20,ERFA,,,,,Caroline Park,,unkown,CP
+North East,3,21,ERFA,AG,,,,Caroline Park,,unkown,CP
+North East,3,22,ERFA,AG,,,,Caroline Park,,unkown,CP
+North East,3,23,ERFA,AG,,,,Caroline Park,,unkown,CP
+North East,3,24,ERFA,AG,,,,Caroline Park,,unkown,CP
+North East,3,25,ARCA,AG,,,,Caroline Park,,unkown,CP
+North West,3,1,ERFA,,,,,Caroline Park,,unkown,CP
+North West,3,2,AG,AG,,,,Caroline Park,AG,unkown,CP
+North West,3,3,AG,AG,,,,Caroline Park,,unkown,CP
+North West,3,4,ARCA,AG,,,,Caroline Park,,unkown,CP
+North West,3,5,AG,,,,,Caroline Park,AG,unkown,CP
+North West,3,6,AG,,,,,Caroline Park,AG,unkown,CP
+North West,3,7,ERFA,AG,,,,Caroline Park,AG,unkown,CP
+North West,3,8,ARCA,AG,,,,Caroline Park,AG,unkown,CP
+North West,3,9,ARCA,AG,,,,Caroline Park,AG,unkown,CP
+North West,3,10,ARCA,,,,,Caroline Park,AG,unkown,CP
+North West,3,11,ERFA,,,,,Caroline Park,AG,unkown,CP
+North West,3,12,AG,,,,,Caroline Park,AG,unkown,CP
+North West,3,13,ARCA,,,,,Caroline Park,AG,unkown,CP
+North West,3,14,ENFA,,,,,Caroline Park,,unkown,CP
+North West,3,15,ERFA,,,,,Caroline Park,,unkown,CP
+North West,3,16,AG,,,,,Caroline Park,AG,unkown,CP
+North West,3,17,AG,,,,,Caroline Park,AG,unkown,CP
+North West,3,18,SAAP,,,,,Caroline Park,AG,unkown,CP
+North West,3,19,ARCA,,,,,Caroline Park,,unkown,CP
+North West,3,20,ARCA,,,,,Caroline Park,,unkown,CP
+North West,3,21,AG,,,,,Caroline Park,,unkown,CP
+North West,3,22,AG,,,,,Caroline Park,,unkown,CP
+North West,3,23,AG,,,,,Caroline Park,,unkown,CP
+North West,3,24,AG,,,,,Caroline Park,,unkown,CP
+North West,3,25,AG,,,,,Caroline Park,,unkown,CP
+South East,3,1,BG,,,,,Caroline Park,,unkown,CP
+South East,3,2,BG,,,,,Caroline Park,,unkown,CP
+South East,3,3,CLAR,AG,,,,Caroline Park,,unkown,CP
+South East,3,4,AG,BG,,,,Caroline Park,,unkown,CP
+South East,3,5,AG,BG,,,,Caroline Park,,unkown,CP
+South East,3,6,AG,BG,,,,Caroline Park,,unkown,CP
+South East,3,7,AG,BG,,,,Caroline Park,,unkown,CP
+South East,3,8,ENFA,AG,,,,Caroline Park,,unkown,CP
+South East,3,9,BG,,,,,Caroline Park,,unkown,CP
+South East,3,10,ENFA,AG,,,,Caroline Park,,unkown,CP
+South East,3,11,BG,,,,,Caroline Park,,unkown,CP
+South East,3,12,BG,,,,,Caroline Park,,unkown,CP
+South East,3,13,BG,,,,,Caroline Park,,unkown,CP
+South East,3,14,MAVU,,,,,Caroline Park,,unkown,CP
+South East,3,15,ENFA,AG,,,,Caroline Park,,unkown,CP
+South East,3,16,BG,,,,,Caroline Park,,unkown,CP
+South East,3,17,BG,,,,,Caroline Park,,unkown,CP
+South East,3,18,AG,,,,,Caroline Park,,unkown,CP
+South East,3,19,BG,,,,,Caroline Park,,unkown,CP
+South East,3,20,PHRA,AG,,,,Caroline Park,,unkown,CP
+South East,3,21,BG,,,,,Caroline Park,,unkown,CP
+South East,3,22,BG,,,,,Caroline Park,,unkown,CP
+South East,3,23,BG,,,,,Caroline Park,,unkown,CP
+South East,3,24,AG,,,,,Caroline Park,,unkown,CP
+South East,3,25,BG,,,,,Caroline Park,,unkown,CP
+South West,3,1,BG,,,,,Caroline Park,,unkown,CP
+South West,3,2,BG,,,,,Caroline Park,,unkown,CP
+South West,3,3,AG,,,,,Caroline Park,,unkown,CP
+South West,3,4,AG,,,,,Caroline Park,,unkown,CP
+South West,3,5,BG,,,,,Caroline Park,,unkown,CP
+South West,3,6,BG,,,,,Caroline Park,,unkown,CP
+South West,3,7,BG,,,,,Caroline Park,,unkown,CP
+South West,3,8,BG,,,,,Caroline Park,,unkown,CP
+South West,3,9,ARCA,AG,,,,Caroline Park,,unkown,CP
+South West,3,10,ARCA,AG,,,,Caroline Park,,unkown,CP
+South West,3,11,ARCA,AG,,,,Caroline Park,,unkown,CP
+South West,3,12,BG,,,,,Caroline Park,,unkown,CP
+South West,3,13,ENFA,,,,,Caroline Park,,unkown,CP
+South West,3,15,ENFA,AG,,,,Caroline Park,,unkown,CP
+South West,3,16,ENFA,,,,,Caroline Park,,unkown,CP
+South West,3,17,ENFA,AG,,,,Caroline Park,,unkown,CP
+South West,3,18,ENFA,,,,,Caroline Park,,unkown,CP
+South West,3,19,ENFA,,,,,Caroline Park,,unkown,CP
+South West,3,20,ENFA,,,,,Caroline Park,,unkown,CP
+South West,3,21,ENFA,AG,,,,Caroline Park,,unkown,CP
+South West,3,22,BG,,,,,Caroline Park,,unkown,CP
+South West,3,23,BG,,,,,Caroline Park,,unkown,CP
+South West,3,24,BG,,,,,Caroline Park,,unkown,CP
+South West,3,25,BG,,,,,Caroline Park,,unkown,CP
+],,,,,,,,,,unkown,
